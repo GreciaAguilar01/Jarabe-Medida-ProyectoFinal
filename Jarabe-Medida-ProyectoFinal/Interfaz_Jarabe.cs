@@ -20,6 +20,7 @@ namespace Jarabe_Medida_ProyectoFinal
 
         private void Interfaz_Jarabe_Load(object sender, EventArgs e)
         {
+            PanelIMC.Visible = false;
             PanelIMC.BackColor = Color.FromArgb(80, 255, 255, 255);
             PanelCalcuJarabe.BackColor = Color.FromArgb(80, 255, 255, 255);
             PanelCalcuJarabe.Region = Region.FromHrgn(CreateRoundRectRgn(0, 0, PanelCalcuJarabe.Width, PanelCalcuJarabe.Height, 25, 25));
@@ -45,16 +46,25 @@ namespace Jarabe_Medida_ProyectoFinal
         }
 
 
-
         [DllImport("Gdi32.dll", EntryPoint = "CreateRoundRectRgn")]
         private static extern IntPtr CreateRoundRectRgn
         (
-            int nLeftRect,     // x-coordinate of upper-left corner
-            int nTopRect,      // y-coordinate of upper-left corner
-            int nRightRect,    // x-coordinate of lower-right corner
-            int nBottomRect,   // y-coordinate of lower-right corner
-            int nWidthEllipse, // width of ellipse (qué tan redondo)
-            int nHeightEllipse // height of ellipse (qué tan redondo)
+            int nLeftRect,     
+            int nTopRect,      
+            int nRightRect,    
+            int nBottomRect,  
+            int nWidthEllipse, 
+            int nHeightEllipse 
         );
+
+        private void BtnCalcular_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            PanelIMC.Visible = !PanelIMC.Visible;
+        }
     }
 }

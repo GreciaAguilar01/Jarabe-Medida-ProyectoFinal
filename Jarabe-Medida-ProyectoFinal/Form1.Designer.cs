@@ -59,6 +59,7 @@
             // 
             // Fondo_InicioS
             // 
+            this.Fondo_InicioS.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.Fondo_InicioS.BackColor = System.Drawing.Color.Transparent;
             this.Fondo_InicioS.BackgroundImage = global::Jarabe_Medida_ProyectoFinal.Properties.Resources.WhatsApp_Image_2026_04_16_at_7_41_34_AM_removebg_preview;
             this.Fondo_InicioS.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
@@ -83,6 +84,7 @@
             // 
             // panel1
             // 
+            this.panel1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(214)))), ((int)(((byte)(234)))), ((int)(((byte)(248)))));
             this.panel1.Controls.Add(this.flowLayoutPanel1);
             this.panel1.Controls.Add(this.panel2);

@@ -40,52 +40,53 @@
             this.label13 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.textBox15 = new System.Windows.Forms.TextBox();
-            this.textBox38 = new System.Windows.Forms.TextBox();
-            this.textBox37 = new System.Windows.Forms.TextBox();
-            this.textBox36 = new System.Windows.Forms.TextBox();
-            this.textBox35 = new System.Windows.Forms.TextBox();
-            this.textBox34 = new System.Windows.Forms.TextBox();
-            this.textBox33 = new System.Windows.Forms.TextBox();
-            this.textBox32 = new System.Windows.Forms.TextBox();
-            this.textBox31 = new System.Windows.Forms.TextBox();
-            this.textBox30 = new System.Windows.Forms.TextBox();
-            this.textBox29 = new System.Windows.Forms.TextBox();
-            this.textBox28 = new System.Windows.Forms.TextBox();
-            this.textBox27 = new System.Windows.Forms.TextBox();
-            this.textBox26 = new System.Windows.Forms.TextBox();
-            this.textBox25 = new System.Windows.Forms.TextBox();
-            this.textBox24 = new System.Windows.Forms.TextBox();
-            this.textBox23 = new System.Windows.Forms.TextBox();
-            this.textBox22 = new System.Windows.Forms.TextBox();
-            this.textBox21 = new System.Windows.Forms.TextBox();
-            this.textBox20 = new System.Windows.Forms.TextBox();
-            this.textBox19 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.textBox5 = new System.Windows.Forms.TextBox();
-            this.textBox6 = new System.Windows.Forms.TextBox();
-            this.textBox7 = new System.Windows.Forms.TextBox();
-            this.textBox11 = new System.Windows.Forms.TextBox();
-            this.textBox10 = new System.Windows.Forms.TextBox();
-            this.textBox9 = new System.Windows.Forms.TextBox();
-            this.textBox8 = new System.Windows.Forms.TextBox();
-            this.textBox12 = new System.Windows.Forms.TextBox();
-            this.textBox13 = new System.Windows.Forms.TextBox();
-            this.textBox14 = new System.Windows.Forms.TextBox();
+            this.TbR5 = new System.Windows.Forms.TextBox();
+            this.TbD5 = new System.Windows.Forms.TextBox();
+            this.tbm5j5 = new System.Windows.Forms.TextBox();
+            this.tbm5j4 = new System.Windows.Forms.TextBox();
+            this.tbm5j3 = new System.Windows.Forms.TextBox();
+            this.tbm5j2 = new System.Windows.Forms.TextBox();
+            this.TbDR4 = new System.Windows.Forms.TextBox();
+            this.tbm4j5 = new System.Windows.Forms.TextBox();
+            this.tbm4j4 = new System.Windows.Forms.TextBox();
+            this.TbDR3 = new System.Windows.Forms.TextBox();
+            this.tbm3j5 = new System.Windows.Forms.TextBox();
+            this.tbm3j4 = new System.Windows.Forms.TextBox();
+            this.tbm3j3 = new System.Windows.Forms.TextBox();
+            this.TbDR2 = new System.Windows.Forms.TextBox();
+            this.tbm2j5 = new System.Windows.Forms.TextBox();
+            this.tbm2j4 = new System.Windows.Forms.TextBox();
+            this.tbm2j3 = new System.Windows.Forms.TextBox();
+            this.TbDR1 = new System.Windows.Forms.TextBox();
+            this.tbm1j5 = new System.Windows.Forms.TextBox();
+            this.tbm1j4 = new System.Windows.Forms.TextBox();
+            this.TbR1 = new System.Windows.Forms.TextBox();
+            this.tbm1j1 = new System.Windows.Forms.TextBox();
+            this.tbm2j1 = new System.Windows.Forms.TextBox();
+            this.tbm3j1 = new System.Windows.Forms.TextBox();
+            this.tbm4j1 = new System.Windows.Forms.TextBox();
+            this.tbm5j1 = new System.Windows.Forms.TextBox();
+            this.tbm1j2 = new System.Windows.Forms.TextBox();
+            this.tbm1j3 = new System.Windows.Forms.TextBox();
+            this.tbm2j2 = new System.Windows.Forms.TextBox();
+            this.tbm3j2 = new System.Windows.Forms.TextBox();
+            this.TbR2 = new System.Windows.Forms.TextBox();
+            this.TbR3 = new System.Windows.Forms.TextBox();
+            this.TbR4 = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
+            this.tbm4j2 = new System.Windows.Forms.TextBox();
+            this.tbm4j33 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.PanelCalcuJarabe = new System.Windows.Forms.Panel();
             this.BtnLimpiar = new System.Windows.Forms.Button();
             this.BtnCalcular = new System.Windows.Forms.Button();
             this.PanelIMC = new System.Windows.Forms.Panel();
+            this.button1 = new System.Windows.Forms.Button();
             tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
             tableLayoutPanel1.SuspendLayout();
@@ -238,47 +239,47 @@
             tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 13.63636F));
             tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 13.63636F));
             tableLayoutPanel2.Controls.Add(this.label3, 0, 1);
-            tableLayoutPanel2.Controls.Add(this.textBox15, 5, 6);
-            tableLayoutPanel2.Controls.Add(this.textBox38, 6, 5);
-            tableLayoutPanel2.Controls.Add(this.textBox37, 5, 5);
-            tableLayoutPanel2.Controls.Add(this.textBox36, 4, 5);
-            tableLayoutPanel2.Controls.Add(this.textBox35, 3, 5);
-            tableLayoutPanel2.Controls.Add(this.textBox34, 2, 5);
-            tableLayoutPanel2.Controls.Add(this.textBox33, 6, 4);
-            tableLayoutPanel2.Controls.Add(this.textBox32, 5, 4);
-            tableLayoutPanel2.Controls.Add(this.textBox31, 4, 4);
-            tableLayoutPanel2.Controls.Add(this.textBox30, 3, 4);
-            tableLayoutPanel2.Controls.Add(this.textBox29, 6, 3);
-            tableLayoutPanel2.Controls.Add(this.textBox28, 5, 3);
-            tableLayoutPanel2.Controls.Add(this.textBox27, 4, 3);
-            tableLayoutPanel2.Controls.Add(this.textBox26, 3, 3);
-            tableLayoutPanel2.Controls.Add(this.textBox25, 6, 2);
-            tableLayoutPanel2.Controls.Add(this.textBox24, 5, 2);
-            tableLayoutPanel2.Controls.Add(this.textBox23, 4, 2);
-            tableLayoutPanel2.Controls.Add(this.textBox22, 3, 2);
-            tableLayoutPanel2.Controls.Add(this.textBox21, 6, 1);
-            tableLayoutPanel2.Controls.Add(this.textBox20, 5, 1);
-            tableLayoutPanel2.Controls.Add(this.textBox19, 4, 1);
-            tableLayoutPanel2.Controls.Add(this.textBox2, 1, 6);
-            tableLayoutPanel2.Controls.Add(this.textBox1, 1, 1);
-            tableLayoutPanel2.Controls.Add(this.textBox3, 1, 2);
-            tableLayoutPanel2.Controls.Add(this.textBox4, 1, 3);
-            tableLayoutPanel2.Controls.Add(this.textBox5, 1, 4);
-            tableLayoutPanel2.Controls.Add(this.textBox6, 1, 5);
-            tableLayoutPanel2.Controls.Add(this.textBox7, 2, 1);
-            tableLayoutPanel2.Controls.Add(this.textBox11, 3, 1);
-            tableLayoutPanel2.Controls.Add(this.textBox10, 2, 2);
-            tableLayoutPanel2.Controls.Add(this.textBox9, 2, 3);
-            tableLayoutPanel2.Controls.Add(this.textBox8, 2, 4);
-            tableLayoutPanel2.Controls.Add(this.textBox12, 2, 6);
-            tableLayoutPanel2.Controls.Add(this.textBox13, 3, 6);
-            tableLayoutPanel2.Controls.Add(this.textBox14, 4, 6);
+            tableLayoutPanel2.Controls.Add(this.TbR5, 5, 6);
+            tableLayoutPanel2.Controls.Add(this.TbD5, 6, 5);
+            tableLayoutPanel2.Controls.Add(this.tbm5j5, 5, 5);
+            tableLayoutPanel2.Controls.Add(this.tbm5j4, 4, 5);
+            tableLayoutPanel2.Controls.Add(this.tbm5j3, 3, 5);
+            tableLayoutPanel2.Controls.Add(this.tbm5j2, 2, 5);
+            tableLayoutPanel2.Controls.Add(this.TbDR4, 6, 4);
+            tableLayoutPanel2.Controls.Add(this.tbm4j5, 5, 4);
+            tableLayoutPanel2.Controls.Add(this.tbm4j4, 4, 4);
+            tableLayoutPanel2.Controls.Add(this.TbDR3, 6, 3);
+            tableLayoutPanel2.Controls.Add(this.tbm3j5, 5, 3);
+            tableLayoutPanel2.Controls.Add(this.tbm3j4, 4, 3);
+            tableLayoutPanel2.Controls.Add(this.tbm3j3, 3, 3);
+            tableLayoutPanel2.Controls.Add(this.TbDR2, 6, 2);
+            tableLayoutPanel2.Controls.Add(this.tbm2j5, 5, 2);
+            tableLayoutPanel2.Controls.Add(this.tbm2j4, 4, 2);
+            tableLayoutPanel2.Controls.Add(this.tbm2j3, 3, 2);
+            tableLayoutPanel2.Controls.Add(this.TbDR1, 6, 1);
+            tableLayoutPanel2.Controls.Add(this.tbm1j5, 5, 1);
+            tableLayoutPanel2.Controls.Add(this.tbm1j4, 4, 1);
+            tableLayoutPanel2.Controls.Add(this.TbR1, 1, 6);
+            tableLayoutPanel2.Controls.Add(this.tbm1j1, 1, 1);
+            tableLayoutPanel2.Controls.Add(this.tbm2j1, 1, 2);
+            tableLayoutPanel2.Controls.Add(this.tbm3j1, 1, 3);
+            tableLayoutPanel2.Controls.Add(this.tbm4j1, 1, 4);
+            tableLayoutPanel2.Controls.Add(this.tbm5j1, 1, 5);
+            tableLayoutPanel2.Controls.Add(this.tbm1j2, 2, 1);
+            tableLayoutPanel2.Controls.Add(this.tbm1j3, 3, 1);
+            tableLayoutPanel2.Controls.Add(this.tbm2j2, 2, 2);
+            tableLayoutPanel2.Controls.Add(this.tbm3j2, 2, 3);
+            tableLayoutPanel2.Controls.Add(this.TbR2, 2, 6);
+            tableLayoutPanel2.Controls.Add(this.TbR3, 3, 6);
+            tableLayoutPanel2.Controls.Add(this.TbR4, 4, 6);
             tableLayoutPanel2.Controls.Add(this.label4, 0, 2);
             tableLayoutPanel2.Controls.Add(this.label5, 0, 3);
             tableLayoutPanel2.Controls.Add(this.label6, 0, 4);
             tableLayoutPanel2.Controls.Add(this.label7, 0, 5);
             tableLayoutPanel2.Controls.Add(this.label8, 0, 6);
-            tableLayoutPanel2.Location = new System.Drawing.Point(22, 38);
+            tableLayoutPanel2.Controls.Add(this.tbm4j2, 2, 4);
+            tableLayoutPanel2.Controls.Add(this.tbm4j33, 3, 4);
+            tableLayoutPanel2.Location = new System.Drawing.Point(21, 38);
             tableLayoutPanel2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             tableLayoutPanel2.Name = "tableLayoutPanel2";
             tableLayoutPanel2.RowCount = 7;
@@ -303,460 +304,434 @@
             this.label3.TabIndex = 24;
             this.label3.Text = "Medicamento 1";
             // 
-            // textBox15
+            // TbR5
             // 
-            this.textBox15.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.TbR5.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox15.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(159)))), ((int)(((byte)(251)))), ((int)(((byte)(183)))));
-            this.textBox15.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox15.Location = new System.Drawing.Point(707, 296);
-            this.textBox15.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox15.Name = "textBox15";
-            this.textBox15.Size = new System.Drawing.Size(126, 31);
-            this.textBox15.TabIndex = 86;
+            this.TbR5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(159)))), ((int)(((byte)(251)))), ((int)(((byte)(183)))));
+            this.TbR5.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.TbR5.Location = new System.Drawing.Point(707, 296);
+            this.TbR5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.TbR5.Name = "TbR5";
+            this.TbR5.Size = new System.Drawing.Size(126, 31);
+            this.TbR5.TabIndex = 86;
             // 
-            // textBox38
+            // TbD5
             // 
-            this.textBox38.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.TbD5.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox38.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(122)))), ((int)(((byte)(219)))), ((int)(((byte)(243)))));
-            this.textBox38.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox38.Location = new System.Drawing.Point(839, 247);
-            this.textBox38.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox38.Name = "textBox38";
-            this.textBox38.Size = new System.Drawing.Size(129, 31);
-            this.textBox38.TabIndex = 82;
+            this.TbD5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(122)))), ((int)(((byte)(219)))), ((int)(((byte)(243)))));
+            this.TbD5.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.TbD5.Location = new System.Drawing.Point(839, 247);
+            this.TbD5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.TbD5.Name = "TbD5";
+            this.TbD5.Size = new System.Drawing.Size(129, 31);
+            this.TbD5.TabIndex = 82;
             // 
-            // textBox37
+            // tbm5j5
             // 
-            this.textBox37.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.tbm5j5.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox37.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
-            this.textBox37.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox37.Location = new System.Drawing.Point(707, 247);
-            this.textBox37.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox37.Name = "textBox37";
-            this.textBox37.Size = new System.Drawing.Size(126, 31);
-            this.textBox37.TabIndex = 81;
+            this.tbm5j5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
+            this.tbm5j5.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.tbm5j5.Location = new System.Drawing.Point(707, 247);
+            this.tbm5j5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbm5j5.Name = "tbm5j5";
+            this.tbm5j5.Size = new System.Drawing.Size(126, 31);
+            this.tbm5j5.TabIndex = 81;
             // 
-            // textBox36
+            // tbm5j4
             // 
-            this.textBox36.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.tbm5j4.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox36.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
-            this.textBox36.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox36.Location = new System.Drawing.Point(575, 247);
-            this.textBox36.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox36.Name = "textBox36";
-            this.textBox36.Size = new System.Drawing.Size(126, 31);
-            this.textBox36.TabIndex = 80;
+            this.tbm5j4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
+            this.tbm5j4.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.tbm5j4.Location = new System.Drawing.Point(575, 247);
+            this.tbm5j4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbm5j4.Name = "tbm5j4";
+            this.tbm5j4.Size = new System.Drawing.Size(126, 31);
+            this.tbm5j4.TabIndex = 80;
             // 
-            // textBox35
+            // tbm5j3
             // 
-            this.textBox35.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.tbm5j3.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox35.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
-            this.textBox35.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox35.Location = new System.Drawing.Point(443, 247);
-            this.textBox35.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox35.Name = "textBox35";
-            this.textBox35.Size = new System.Drawing.Size(126, 31);
-            this.textBox35.TabIndex = 79;
+            this.tbm5j3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
+            this.tbm5j3.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.tbm5j3.Location = new System.Drawing.Point(443, 247);
+            this.tbm5j3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbm5j3.Name = "tbm5j3";
+            this.tbm5j3.Size = new System.Drawing.Size(126, 31);
+            this.tbm5j3.TabIndex = 79;
             // 
-            // textBox34
+            // tbm5j2
             // 
-            this.textBox34.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.tbm5j2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox34.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
-            this.textBox34.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox34.Location = new System.Drawing.Point(311, 247);
-            this.textBox34.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox34.Name = "textBox34";
-            this.textBox34.Size = new System.Drawing.Size(126, 31);
-            this.textBox34.TabIndex = 78;
+            this.tbm5j2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
+            this.tbm5j2.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.tbm5j2.Location = new System.Drawing.Point(311, 247);
+            this.tbm5j2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbm5j2.Name = "tbm5j2";
+            this.tbm5j2.Size = new System.Drawing.Size(126, 31);
+            this.tbm5j2.TabIndex = 78;
             // 
-            // textBox33
+            // TbDR4
             // 
-            this.textBox33.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.TbDR4.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox33.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(122)))), ((int)(((byte)(219)))), ((int)(((byte)(243)))));
-            this.textBox33.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox33.Location = new System.Drawing.Point(839, 198);
-            this.textBox33.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox33.Name = "textBox33";
-            this.textBox33.Size = new System.Drawing.Size(129, 31);
-            this.textBox33.TabIndex = 77;
+            this.TbDR4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(122)))), ((int)(((byte)(219)))), ((int)(((byte)(243)))));
+            this.TbDR4.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.TbDR4.Location = new System.Drawing.Point(839, 198);
+            this.TbDR4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.TbDR4.Name = "TbDR4";
+            this.TbDR4.Size = new System.Drawing.Size(129, 31);
+            this.TbDR4.TabIndex = 77;
             // 
-            // textBox32
+            // tbm4j5
             // 
-            this.textBox32.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.tbm4j5.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox32.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
-            this.textBox32.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox32.Location = new System.Drawing.Point(707, 198);
-            this.textBox32.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox32.Name = "textBox32";
-            this.textBox32.Size = new System.Drawing.Size(126, 31);
-            this.textBox32.TabIndex = 76;
+            this.tbm4j5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
+            this.tbm4j5.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.tbm4j5.Location = new System.Drawing.Point(707, 198);
+            this.tbm4j5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbm4j5.Name = "tbm4j5";
+            this.tbm4j5.Size = new System.Drawing.Size(126, 31);
+            this.tbm4j5.TabIndex = 76;
             // 
-            // textBox31
+            // tbm4j4
             // 
-            this.textBox31.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.tbm4j4.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox31.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
-            this.textBox31.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox31.Location = new System.Drawing.Point(575, 198);
-            this.textBox31.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox31.Name = "textBox31";
-            this.textBox31.Size = new System.Drawing.Size(126, 31);
-            this.textBox31.TabIndex = 75;
+            this.tbm4j4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
+            this.tbm4j4.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.tbm4j4.Location = new System.Drawing.Point(575, 198);
+            this.tbm4j4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbm4j4.Name = "tbm4j4";
+            this.tbm4j4.Size = new System.Drawing.Size(126, 31);
+            this.tbm4j4.TabIndex = 75;
             // 
-            // textBox30
+            // TbDR3
             // 
-            this.textBox30.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.TbDR3.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox30.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
-            this.textBox30.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox30.Location = new System.Drawing.Point(443, 198);
-            this.textBox30.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox30.Name = "textBox30";
-            this.textBox30.Size = new System.Drawing.Size(126, 31);
-            this.textBox30.TabIndex = 74;
+            this.TbDR3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(122)))), ((int)(((byte)(219)))), ((int)(((byte)(243)))));
+            this.TbDR3.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.TbDR3.Location = new System.Drawing.Point(839, 149);
+            this.TbDR3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.TbDR3.Name = "TbDR3";
+            this.TbDR3.Size = new System.Drawing.Size(129, 31);
+            this.TbDR3.TabIndex = 73;
             // 
-            // textBox29
+            // tbm3j5
             // 
-            this.textBox29.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.tbm3j5.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox29.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(122)))), ((int)(((byte)(219)))), ((int)(((byte)(243)))));
-            this.textBox29.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox29.Location = new System.Drawing.Point(839, 149);
-            this.textBox29.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox29.Name = "textBox29";
-            this.textBox29.Size = new System.Drawing.Size(129, 31);
-            this.textBox29.TabIndex = 73;
+            this.tbm3j5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
+            this.tbm3j5.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.tbm3j5.Location = new System.Drawing.Point(707, 149);
+            this.tbm3j5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbm3j5.Name = "tbm3j5";
+            this.tbm3j5.Size = new System.Drawing.Size(126, 31);
+            this.tbm3j5.TabIndex = 72;
             // 
-            // textBox28
+            // tbm3j4
             // 
-            this.textBox28.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.tbm3j4.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox28.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
-            this.textBox28.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox28.Location = new System.Drawing.Point(707, 149);
-            this.textBox28.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox28.Name = "textBox28";
-            this.textBox28.Size = new System.Drawing.Size(126, 31);
-            this.textBox28.TabIndex = 72;
+            this.tbm3j4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
+            this.tbm3j4.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.tbm3j4.Location = new System.Drawing.Point(575, 149);
+            this.tbm3j4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbm3j4.Name = "tbm3j4";
+            this.tbm3j4.Size = new System.Drawing.Size(126, 31);
+            this.tbm3j4.TabIndex = 71;
             // 
-            // textBox27
+            // tbm3j3
             // 
-            this.textBox27.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.tbm3j3.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox27.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
-            this.textBox27.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox27.Location = new System.Drawing.Point(575, 149);
-            this.textBox27.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox27.Name = "textBox27";
-            this.textBox27.Size = new System.Drawing.Size(126, 31);
-            this.textBox27.TabIndex = 71;
+            this.tbm3j3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
+            this.tbm3j3.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.tbm3j3.Location = new System.Drawing.Point(443, 149);
+            this.tbm3j3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbm3j3.Name = "tbm3j3";
+            this.tbm3j3.Size = new System.Drawing.Size(126, 31);
+            this.tbm3j3.TabIndex = 70;
             // 
-            // textBox26
+            // TbDR2
             // 
-            this.textBox26.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.TbDR2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox26.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
-            this.textBox26.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox26.Location = new System.Drawing.Point(443, 149);
-            this.textBox26.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox26.Name = "textBox26";
-            this.textBox26.Size = new System.Drawing.Size(126, 31);
-            this.textBox26.TabIndex = 70;
+            this.TbDR2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(122)))), ((int)(((byte)(219)))), ((int)(((byte)(243)))));
+            this.TbDR2.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.TbDR2.Location = new System.Drawing.Point(839, 100);
+            this.TbDR2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.TbDR2.Name = "TbDR2";
+            this.TbDR2.Size = new System.Drawing.Size(129, 31);
+            this.TbDR2.TabIndex = 69;
             // 
-            // textBox25
+            // tbm2j5
             // 
-            this.textBox25.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.tbm2j5.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox25.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(122)))), ((int)(((byte)(219)))), ((int)(((byte)(243)))));
-            this.textBox25.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox25.Location = new System.Drawing.Point(839, 100);
-            this.textBox25.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox25.Name = "textBox25";
-            this.textBox25.Size = new System.Drawing.Size(129, 31);
-            this.textBox25.TabIndex = 69;
+            this.tbm2j5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
+            this.tbm2j5.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.tbm2j5.Location = new System.Drawing.Point(707, 100);
+            this.tbm2j5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbm2j5.Name = "tbm2j5";
+            this.tbm2j5.Size = new System.Drawing.Size(126, 31);
+            this.tbm2j5.TabIndex = 68;
             // 
-            // textBox24
+            // tbm2j4
             // 
-            this.textBox24.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.tbm2j4.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox24.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
-            this.textBox24.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox24.Location = new System.Drawing.Point(707, 100);
-            this.textBox24.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox24.Name = "textBox24";
-            this.textBox24.Size = new System.Drawing.Size(126, 31);
-            this.textBox24.TabIndex = 68;
+            this.tbm2j4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
+            this.tbm2j4.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.tbm2j4.Location = new System.Drawing.Point(575, 100);
+            this.tbm2j4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbm2j4.Name = "tbm2j4";
+            this.tbm2j4.Size = new System.Drawing.Size(126, 31);
+            this.tbm2j4.TabIndex = 67;
             // 
-            // textBox23
+            // tbm2j3
             // 
-            this.textBox23.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.tbm2j3.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox23.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
-            this.textBox23.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox23.Location = new System.Drawing.Point(575, 100);
-            this.textBox23.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox23.Name = "textBox23";
-            this.textBox23.Size = new System.Drawing.Size(126, 31);
-            this.textBox23.TabIndex = 67;
+            this.tbm2j3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
+            this.tbm2j3.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.tbm2j3.Location = new System.Drawing.Point(443, 100);
+            this.tbm2j3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbm2j3.Name = "tbm2j3";
+            this.tbm2j3.Size = new System.Drawing.Size(126, 31);
+            this.tbm2j3.TabIndex = 66;
             // 
-            // textBox22
+            // TbDR1
             // 
-            this.textBox22.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.TbDR1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox22.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
-            this.textBox22.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox22.Location = new System.Drawing.Point(443, 100);
-            this.textBox22.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox22.Name = "textBox22";
-            this.textBox22.Size = new System.Drawing.Size(126, 31);
-            this.textBox22.TabIndex = 66;
+            this.TbDR1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(122)))), ((int)(((byte)(219)))), ((int)(((byte)(243)))));
+            this.TbDR1.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.TbDR1.Location = new System.Drawing.Point(839, 51);
+            this.TbDR1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.TbDR1.Name = "TbDR1";
+            this.TbDR1.Size = new System.Drawing.Size(129, 31);
+            this.TbDR1.TabIndex = 65;
             // 
-            // textBox21
+            // tbm1j5
             // 
-            this.textBox21.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.tbm1j5.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox21.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(122)))), ((int)(((byte)(219)))), ((int)(((byte)(243)))));
-            this.textBox21.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox21.Location = new System.Drawing.Point(839, 51);
-            this.textBox21.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox21.Name = "textBox21";
-            this.textBox21.Size = new System.Drawing.Size(129, 31);
-            this.textBox21.TabIndex = 65;
+            this.tbm1j5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
+            this.tbm1j5.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.tbm1j5.Location = new System.Drawing.Point(707, 51);
+            this.tbm1j5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbm1j5.Name = "tbm1j5";
+            this.tbm1j5.Size = new System.Drawing.Size(126, 31);
+            this.tbm1j5.TabIndex = 64;
             // 
-            // textBox20
+            // tbm1j4
             // 
-            this.textBox20.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.tbm1j4.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox20.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
-            this.textBox20.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox20.Location = new System.Drawing.Point(707, 51);
-            this.textBox20.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox20.Name = "textBox20";
-            this.textBox20.Size = new System.Drawing.Size(126, 31);
-            this.textBox20.TabIndex = 64;
+            this.tbm1j4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
+            this.tbm1j4.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.tbm1j4.Location = new System.Drawing.Point(575, 51);
+            this.tbm1j4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbm1j4.Name = "tbm1j4";
+            this.tbm1j4.Size = new System.Drawing.Size(126, 31);
+            this.tbm1j4.TabIndex = 63;
             // 
-            // textBox19
+            // TbR1
             // 
-            this.textBox19.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.TbR1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox19.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
-            this.textBox19.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox19.Location = new System.Drawing.Point(575, 51);
-            this.textBox19.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox19.Name = "textBox19";
-            this.textBox19.Size = new System.Drawing.Size(126, 31);
-            this.textBox19.TabIndex = 63;
+            this.TbR1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(159)))), ((int)(((byte)(251)))), ((int)(((byte)(183)))));
+            this.TbR1.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.TbR1.Location = new System.Drawing.Point(179, 296);
+            this.TbR1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.TbR1.Name = "TbR1";
+            this.TbR1.Size = new System.Drawing.Size(126, 31);
+            this.TbR1.TabIndex = 46;
             // 
-            // textBox2
+            // tbm1j1
             // 
-            this.textBox2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.tbm1j1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(159)))), ((int)(((byte)(251)))), ((int)(((byte)(183)))));
-            this.textBox2.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox2.Location = new System.Drawing.Point(179, 296);
-            this.textBox2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(126, 31);
-            this.textBox2.TabIndex = 46;
+            this.tbm1j1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
+            this.tbm1j1.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.tbm1j1.Location = new System.Drawing.Point(179, 51);
+            this.tbm1j1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbm1j1.Name = "tbm1j1";
+            this.tbm1j1.Size = new System.Drawing.Size(126, 31);
+            this.tbm1j1.TabIndex = 45;
             // 
-            // textBox1
+            // tbm2j1
             // 
-            this.textBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.tbm2j1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
-            this.textBox1.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox1.Location = new System.Drawing.Point(179, 51);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(126, 31);
-            this.textBox1.TabIndex = 45;
+            this.tbm2j1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
+            this.tbm2j1.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.tbm2j1.Location = new System.Drawing.Point(179, 100);
+            this.tbm2j1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbm2j1.Name = "tbm2j1";
+            this.tbm2j1.Size = new System.Drawing.Size(126, 31);
+            this.tbm2j1.TabIndex = 47;
             // 
-            // textBox3
+            // tbm3j1
             // 
-            this.textBox3.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.tbm3j1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
-            this.textBox3.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox3.Location = new System.Drawing.Point(179, 100);
-            this.textBox3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(126, 31);
-            this.textBox3.TabIndex = 47;
+            this.tbm3j1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
+            this.tbm3j1.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.tbm3j1.Location = new System.Drawing.Point(179, 149);
+            this.tbm3j1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbm3j1.Name = "tbm3j1";
+            this.tbm3j1.Size = new System.Drawing.Size(126, 31);
+            this.tbm3j1.TabIndex = 48;
             // 
-            // textBox4
+            // tbm4j1
             // 
-            this.textBox4.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.tbm4j1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
-            this.textBox4.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox4.Location = new System.Drawing.Point(179, 149);
-            this.textBox4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(126, 31);
-            this.textBox4.TabIndex = 48;
+            this.tbm4j1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
+            this.tbm4j1.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.tbm4j1.Location = new System.Drawing.Point(179, 198);
+            this.tbm4j1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbm4j1.Name = "tbm4j1";
+            this.tbm4j1.Size = new System.Drawing.Size(126, 31);
+            this.tbm4j1.TabIndex = 49;
             // 
-            // textBox5
+            // tbm5j1
             // 
-            this.textBox5.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.tbm5j1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
-            this.textBox5.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox5.Location = new System.Drawing.Point(179, 198);
-            this.textBox5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(126, 31);
-            this.textBox5.TabIndex = 49;
+            this.tbm5j1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
+            this.tbm5j1.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.tbm5j1.Location = new System.Drawing.Point(179, 247);
+            this.tbm5j1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbm5j1.Name = "tbm5j1";
+            this.tbm5j1.Size = new System.Drawing.Size(126, 31);
+            this.tbm5j1.TabIndex = 50;
             // 
-            // textBox6
+            // tbm1j2
             // 
-            this.textBox6.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.tbm1j2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
-            this.textBox6.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox6.Location = new System.Drawing.Point(179, 247);
-            this.textBox6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(126, 31);
-            this.textBox6.TabIndex = 50;
+            this.tbm1j2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
+            this.tbm1j2.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.tbm1j2.Location = new System.Drawing.Point(311, 51);
+            this.tbm1j2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbm1j2.Name = "tbm1j2";
+            this.tbm1j2.Size = new System.Drawing.Size(126, 31);
+            this.tbm1j2.TabIndex = 51;
             // 
-            // textBox7
+            // tbm1j3
             // 
-            this.textBox7.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.tbm1j3.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
-            this.textBox7.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox7.Location = new System.Drawing.Point(311, 51);
-            this.textBox7.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox7.Name = "textBox7";
-            this.textBox7.Size = new System.Drawing.Size(126, 31);
-            this.textBox7.TabIndex = 51;
+            this.tbm1j3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
+            this.tbm1j3.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.tbm1j3.Location = new System.Drawing.Point(443, 51);
+            this.tbm1j3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbm1j3.Name = "tbm1j3";
+            this.tbm1j3.Size = new System.Drawing.Size(126, 31);
+            this.tbm1j3.TabIndex = 55;
             // 
-            // textBox11
+            // tbm2j2
             // 
-            this.textBox11.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.tbm2j2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox11.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
-            this.textBox11.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox11.Location = new System.Drawing.Point(443, 51);
-            this.textBox11.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox11.Name = "textBox11";
-            this.textBox11.Size = new System.Drawing.Size(126, 31);
-            this.textBox11.TabIndex = 55;
+            this.tbm2j2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
+            this.tbm2j2.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.tbm2j2.Location = new System.Drawing.Point(311, 100);
+            this.tbm2j2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbm2j2.Name = "tbm2j2";
+            this.tbm2j2.Size = new System.Drawing.Size(126, 31);
+            this.tbm2j2.TabIndex = 54;
             // 
-            // textBox10
+            // tbm3j2
             // 
-            this.textBox10.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.tbm3j2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox10.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
-            this.textBox10.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox10.Location = new System.Drawing.Point(311, 100);
-            this.textBox10.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox10.Name = "textBox10";
-            this.textBox10.Size = new System.Drawing.Size(126, 31);
-            this.textBox10.TabIndex = 54;
+            this.tbm3j2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
+            this.tbm3j2.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.tbm3j2.Location = new System.Drawing.Point(311, 149);
+            this.tbm3j2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbm3j2.Name = "tbm3j2";
+            this.tbm3j2.Size = new System.Drawing.Size(126, 31);
+            this.tbm3j2.TabIndex = 53;
             // 
-            // textBox9
+            // TbR2
             // 
-            this.textBox9.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.TbR2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
-            this.textBox9.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox9.Location = new System.Drawing.Point(311, 149);
-            this.textBox9.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox9.Name = "textBox9";
-            this.textBox9.Size = new System.Drawing.Size(126, 31);
-            this.textBox9.TabIndex = 53;
+            this.TbR2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(159)))), ((int)(((byte)(251)))), ((int)(((byte)(183)))));
+            this.TbR2.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.TbR2.Location = new System.Drawing.Point(311, 296);
+            this.TbR2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.TbR2.Name = "TbR2";
+            this.TbR2.Size = new System.Drawing.Size(126, 31);
+            this.TbR2.TabIndex = 83;
             // 
-            // textBox8
+            // TbR3
             // 
-            this.textBox8.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.TbR3.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
-            this.textBox8.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox8.Location = new System.Drawing.Point(311, 198);
-            this.textBox8.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox8.Name = "textBox8";
-            this.textBox8.Size = new System.Drawing.Size(126, 31);
-            this.textBox8.TabIndex = 52;
+            this.TbR3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(159)))), ((int)(((byte)(251)))), ((int)(((byte)(183)))));
+            this.TbR3.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.TbR3.Location = new System.Drawing.Point(443, 296);
+            this.TbR3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.TbR3.Name = "TbR3";
+            this.TbR3.Size = new System.Drawing.Size(126, 31);
+            this.TbR3.TabIndex = 84;
             // 
-            // textBox12
+            // TbR4
             // 
-            this.textBox12.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.TbR4.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(159)))), ((int)(((byte)(251)))), ((int)(((byte)(183)))));
-            this.textBox12.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox12.Location = new System.Drawing.Point(311, 296);
-            this.textBox12.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox12.Name = "textBox12";
-            this.textBox12.Size = new System.Drawing.Size(126, 31);
-            this.textBox12.TabIndex = 83;
-            // 
-            // textBox13
-            // 
-            this.textBox13.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox13.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(159)))), ((int)(((byte)(251)))), ((int)(((byte)(183)))));
-            this.textBox13.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox13.Location = new System.Drawing.Point(443, 296);
-            this.textBox13.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox13.Name = "textBox13";
-            this.textBox13.Size = new System.Drawing.Size(126, 31);
-            this.textBox13.TabIndex = 84;
-            // 
-            // textBox14
-            // 
-            this.textBox14.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox14.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(159)))), ((int)(((byte)(251)))), ((int)(((byte)(183)))));
-            this.textBox14.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
-            this.textBox14.Location = new System.Drawing.Point(575, 296);
-            this.textBox14.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox14.Name = "textBox14";
-            this.textBox14.Size = new System.Drawing.Size(126, 31);
-            this.textBox14.TabIndex = 85;
+            this.TbR4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(159)))), ((int)(((byte)(251)))), ((int)(((byte)(183)))));
+            this.TbR4.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.TbR4.Location = new System.Drawing.Point(575, 296);
+            this.TbR4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.TbR4.Name = "TbR4";
+            this.TbR4.Size = new System.Drawing.Size(126, 31);
+            this.TbR4.TabIndex = 85;
             // 
             // label4
             // 
@@ -813,6 +788,32 @@
             this.label8.TabIndex = 91;
             this.label8.Text = "Resultado";
             // 
+            // tbm4j2
+            // 
+            this.tbm4j2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.tbm4j2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
+            this.tbm4j2.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.tbm4j2.Location = new System.Drawing.Point(311, 198);
+            this.tbm4j2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbm4j2.Name = "tbm4j2";
+            this.tbm4j2.Size = new System.Drawing.Size(126, 31);
+            this.tbm4j2.TabIndex = 92;
+            // 
+            // tbm4j33
+            // 
+            this.tbm4j33.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.tbm4j33.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(154)))), ((int)(((byte)(231)))), ((int)(((byte)(219)))));
+            this.tbm4j33.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F);
+            this.tbm4j33.Location = new System.Drawing.Point(443, 198);
+            this.tbm4j33.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbm4j33.Name = "tbm4j33";
+            this.tbm4j33.Size = new System.Drawing.Size(126, 31);
+            this.tbm4j33.TabIndex = 93;
+            // 
             // label1
             // 
             this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
@@ -835,7 +836,7 @@
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.2F);
             this.label2.Location = new System.Drawing.Point(444, 100);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(598, 25);
+            this.label2.Size = new System.Drawing.Size(597, 25);
             this.label2.TabIndex = 2;
             this.label2.Text = "Ingrese las concentraciones (Mg,Ml) y la dosis requerida(Mg)";
             this.label2.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
@@ -859,7 +860,7 @@
             this.BtnLimpiar.BackColor = System.Drawing.Color.IndianRed;
             this.BtnLimpiar.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnLimpiar.ForeColor = System.Drawing.Color.White;
-            this.BtnLimpiar.Location = new System.Drawing.Point(1135, 656);
+            this.BtnLimpiar.Location = new System.Drawing.Point(1134, 705);
             this.BtnLimpiar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.BtnLimpiar.Name = "BtnLimpiar";
             this.BtnLimpiar.Size = new System.Drawing.Size(219, 38);
@@ -873,13 +874,14 @@
             this.BtnCalcular.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(27)))), ((int)(((byte)(79)))), ((int)(((byte)(114)))));
             this.BtnCalcular.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold);
             this.BtnCalcular.ForeColor = System.Drawing.Color.White;
-            this.BtnCalcular.Location = new System.Drawing.Point(1135, 606);
+            this.BtnCalcular.Location = new System.Drawing.Point(1134, 655);
             this.BtnCalcular.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.BtnCalcular.Name = "BtnCalcular";
             this.BtnCalcular.Size = new System.Drawing.Size(219, 44);
             this.BtnCalcular.TabIndex = 4;
             this.BtnCalcular.Text = "Calcular";
             this.BtnCalcular.UseVisualStyleBackColor = false;
+            this.BtnCalcular.Click += new System.EventHandler(this.BtnCalcular_Click);
             // 
             // PanelIMC
             // 
@@ -892,6 +894,21 @@
             this.PanelIMC.Size = new System.Drawing.Size(232, 386);
             this.PanelIMC.TabIndex = 22;
             // 
+            // button1
+            // 
+            this.button1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(27)))), ((int)(((byte)(79)))), ((int)(((byte)(114)))));
+            this.button1.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold);
+            this.button1.ForeColor = System.Drawing.Color.White;
+            this.button1.Location = new System.Drawing.Point(1164, 747);
+            this.button1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(158, 31);
+            this.button1.TabIndex = 23;
+            this.button1.Text = "Mostrar";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // Interfaz_Jarabe
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -899,6 +916,7 @@
             this.BackgroundImage = global::Jarabe_Medida_ProyectoFinal.Properties.Resources.Fondo_Jarabe_a_la_medida;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1405, 770);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.BtnLimpiar);
             this.Controls.Add(this.PanelCalcuJarabe);
             this.Controls.Add(this.label2);
@@ -906,7 +924,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.PanelIMC);
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.MinimumSize = new System.Drawing.Size(999, 698);
+            this.MinimumSize = new System.Drawing.Size(998, 696);
             this.Name = "Interfaz_Jarabe";
             this.Padding = new System.Windows.Forms.Padding(0, 30, 0, 0);
             this.Text = "Interfaz_Jarabe";
@@ -939,46 +957,48 @@
         private System.Windows.Forms.TextBox TbPesoP;
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.Label label12;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox15;
-        private System.Windows.Forms.TextBox textBox38;
-        private System.Windows.Forms.TextBox textBox37;
-        private System.Windows.Forms.TextBox textBox36;
-        private System.Windows.Forms.TextBox textBox35;
-        private System.Windows.Forms.TextBox textBox34;
-        private System.Windows.Forms.TextBox textBox33;
-        private System.Windows.Forms.TextBox textBox32;
-        private System.Windows.Forms.TextBox textBox31;
-        private System.Windows.Forms.TextBox textBox30;
-        private System.Windows.Forms.TextBox textBox29;
-        private System.Windows.Forms.TextBox textBox28;
-        private System.Windows.Forms.TextBox textBox27;
-        private System.Windows.Forms.TextBox textBox26;
-        private System.Windows.Forms.TextBox textBox25;
-        private System.Windows.Forms.TextBox textBox24;
-        private System.Windows.Forms.TextBox textBox23;
-        private System.Windows.Forms.TextBox textBox22;
-        private System.Windows.Forms.TextBox textBox21;
-        private System.Windows.Forms.TextBox textBox20;
-        private System.Windows.Forms.TextBox textBox19;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.TextBox textBox4;
-        private System.Windows.Forms.TextBox textBox5;
-        private System.Windows.Forms.TextBox textBox6;
-        private System.Windows.Forms.TextBox textBox7;
-        private System.Windows.Forms.TextBox textBox11;
-        private System.Windows.Forms.TextBox textBox10;
-        private System.Windows.Forms.TextBox textBox9;
-        private System.Windows.Forms.TextBox textBox8;
-        private System.Windows.Forms.TextBox textBox12;
-        private System.Windows.Forms.TextBox textBox13;
-        private System.Windows.Forms.TextBox textBox14;
+        private System.Windows.Forms.TextBox tbm1j1;
+        private System.Windows.Forms.TextBox TbR5;
+        private System.Windows.Forms.TextBox TbD5;
+        private System.Windows.Forms.TextBox tbm5j5;
+        private System.Windows.Forms.TextBox tbm5j4;
+        private System.Windows.Forms.TextBox tbm5j3;
+        private System.Windows.Forms.TextBox tbm5j2;
+        private System.Windows.Forms.TextBox TbDR4;
+        private System.Windows.Forms.TextBox tbm4j5;
+        private System.Windows.Forms.TextBox tbm4j4;
+        private System.Windows.Forms.TextBox tbm4j3;
+        private System.Windows.Forms.TextBox TbDR3;
+        private System.Windows.Forms.TextBox tbm3j5;
+        private System.Windows.Forms.TextBox tbm3j4;
+        private System.Windows.Forms.TextBox tbm3j3;
+        private System.Windows.Forms.TextBox TbDR2;
+        private System.Windows.Forms.TextBox tbm2j5;
+        private System.Windows.Forms.TextBox tbm2j4;
+        private System.Windows.Forms.TextBox tbm2j3;
+        private System.Windows.Forms.TextBox TbDR1;
+        private System.Windows.Forms.TextBox tbm1j5;
+        private System.Windows.Forms.TextBox tbm1j4;
+        private System.Windows.Forms.TextBox TbR1;
+        private System.Windows.Forms.TextBox tbm2j1;
+        private System.Windows.Forms.TextBox tbm3j1;
+        private System.Windows.Forms.TextBox tbm4j1;
+        private System.Windows.Forms.TextBox tbm5j1;
+        private System.Windows.Forms.TextBox tbm1j2;
+        private System.Windows.Forms.TextBox tbm1j3;
+        private System.Windows.Forms.TextBox tbm2j2;
+        private System.Windows.Forms.TextBox tbm3j2;
+        private System.Windows.Forms.TextBox TbR2;
+        private System.Windows.Forms.TextBox TbR3;
+        private System.Windows.Forms.TextBox TbR4;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.TextBox tbm4j2;
+        private System.Windows.Forms.TextBox tbm4j33;
+        private System.Windows.Forms.Button button1;
     }
 }

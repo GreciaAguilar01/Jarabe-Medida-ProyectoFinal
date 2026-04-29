@@ -37,7 +37,6 @@ namespace Jarabe_Medida_ProyectoFinal
             }
             else
             {
-                // Credenciales incorrectas
                 MessageBox.Show("Usuario o contraseña incorrectos. Por favor, intente de nuevo.", "Error de Inicio de Sesión", MessageBoxButtons.OK, MessageBoxIcon.Error);
 
                 TbUsuario.Clear();
