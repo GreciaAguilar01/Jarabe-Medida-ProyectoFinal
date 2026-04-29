@@ -860,7 +860,7 @@
             this.BtnLimpiar.BackColor = System.Drawing.Color.IndianRed;
             this.BtnLimpiar.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnLimpiar.ForeColor = System.Drawing.Color.White;
-            this.BtnLimpiar.Location = new System.Drawing.Point(1134, 705);
+            this.BtnLimpiar.Location = new System.Drawing.Point(1134, 686);
             this.BtnLimpiar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.BtnLimpiar.Name = "BtnLimpiar";
             this.BtnLimpiar.Size = new System.Drawing.Size(219, 38);
@@ -874,7 +874,7 @@
             this.BtnCalcular.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(27)))), ((int)(((byte)(79)))), ((int)(((byte)(114)))));
             this.BtnCalcular.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold);
             this.BtnCalcular.ForeColor = System.Drawing.Color.White;
-            this.BtnCalcular.Location = new System.Drawing.Point(1134, 655);
+            this.BtnCalcular.Location = new System.Drawing.Point(1134, 627);
             this.BtnCalcular.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.BtnCalcular.Name = "BtnCalcular";
             this.BtnCalcular.Size = new System.Drawing.Size(219, 44);
@@ -900,10 +900,10 @@
             this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(27)))), ((int)(((byte)(79)))), ((int)(((byte)(114)))));
             this.button1.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold);
             this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(1164, 747);
+            this.button1.Location = new System.Drawing.Point(1131, 734);
             this.button1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(158, 31);
+            this.button1.Size = new System.Drawing.Size(219, 34);
             this.button1.TabIndex = 23;
             this.button1.Text = "Mostrar";
             this.button1.UseVisualStyleBackColor = false;
